@@ -43,6 +43,7 @@ public class Term {
     public Term(double c, int e) {
         coefficient = c;
         exponent = e;
+        ///
     }
 
     /**
