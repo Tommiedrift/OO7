@@ -24,7 +24,7 @@ public class polynomialTest {
 	
 	@Test
 	public void testPlus() {
-		//////
+		//Test blabla
 		//Polynomial output = p1.plus(p2);
 	}
 
